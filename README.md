@@ -1,2 +1,2 @@
-# super-tabenews
+# super-tabnews
 Projeto do cursodev
